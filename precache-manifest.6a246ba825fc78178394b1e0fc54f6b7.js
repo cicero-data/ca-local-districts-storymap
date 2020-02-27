@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1c94ecbb7a76f0021b57a367c5bafd0",
+    "revision": "ab712d40e8a35b849a996d1667c1acaa",
     "url": "/ca-local-districts-storymap/index.html"
   },
   {
-    "revision": "a2afc1ee831de9f1897d",
+    "revision": "dd524f476a2584a24850",
     "url": "/ca-local-districts-storymap/static/css/main.de63c54f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ca-local-districts-storymap/static/js/2.3172dd64.chunk.js"
   },
   {
-    "revision": "a2afc1ee831de9f1897d",
-    "url": "/ca-local-districts-storymap/static/js/main.6e1de837.chunk.js"
+    "revision": "dd524f476a2584a24850",
+    "url": "/ca-local-districts-storymap/static/js/main.3a371a3a.chunk.js"
   },
   {
     "revision": "d20cd355f89b10220da7",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ca-local-districts-storymap/precache-manifest.b406dc1e0f2f207333cd747f2f18a620.js"
+  "/ca-local-districts-storymap/precache-manifest.6a246ba825fc78178394b1e0fc54f6b7.js"
 );
 
 self.addEventListener('message', (event) => {
